@@ -1,5 +1,5 @@
 ### use it to fetch currently playing song & queue.
-> `tr:` anlık çalınan şarkıyı ve sıradaki şarkıları çekmek içim kullan
+> tr: anlık çalınan şarkıyı ve sıradaki şarkıları çekmek içim kullan
 
 ### Prerequisites: `(ön koşullar)`
 * Spotify app [can be created in here](https://developer.spotify.com/dashboard "Developer Dashboard")
