@@ -1,0 +1,22 @@
+{
+  "name": "spotify-api-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon dev"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.3.0",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.22.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
