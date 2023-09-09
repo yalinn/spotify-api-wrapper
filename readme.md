@@ -14,7 +14,6 @@
 ###### .env examle:
 
 ```sh
-USER_TOKEN=place_your_refresh_token_here
 CLIENT_ID=spotify_app_id
 CLIENT_SECRET=spotify_app_secret
 REDIRECT_URL="http://localhost:8080/callback"
