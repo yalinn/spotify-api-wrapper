@@ -1,6 +1,6 @@
 ### use it to fetch currently playing song & queue.
 > [!IMPORTANT]
-> works fine with [orhanyalin/spotify-stasus-image](https://github.com/orhanyalin/spotify-status-image)\
+> works fine with [yalinn/spotify-stasus-image](https://github.com/yalinn/spotify-status-image)\
 > tr: veriyi işlemek için bir repo linki bıraktım
 
 ### Prerequisites: `(ön koşullar)`
