@@ -21,6 +21,6 @@ REDIRECT_URL="http://localhost:8080/callback"
 
 > you can change redirect_url
 
-#### works fine with [Tantoony/spotify-stasus-image](https://github.com/Tantoony/spotify-status-image)
+#### works fine with [Tantoony/spotify-stasus-image](https://github.com/yalinn/spotify-status-image)
 
 > tr: veriyi işlemek için bir repo linki bıraktım
